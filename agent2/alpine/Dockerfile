@@ -1,4 +1,4 @@
-FROM alpine:3.11
+FROM alpine:3.18.4
 
 LABEL org.opencontainers.image.title="Zabbix agent 2" \
       org.opencontainers.image.authors="Alexey Pustovalov <alexey.pustovalov@zabbix.com>" \
