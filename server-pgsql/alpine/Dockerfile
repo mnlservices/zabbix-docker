@@ -1,4 +1,4 @@
-FROM alpine:3.11
+FROM alpine:3.18.5
 
 LABEL org.opencontainers.image.title="Zabbix server (PostgreSQL)" \
       org.opencontainers.image.authors="Alexey Pustovalov <alexey.pustovalov@zabbix.com>" \
